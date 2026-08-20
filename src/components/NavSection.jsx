@@ -14,7 +14,7 @@ export default function NavSection() {
         <User size={20} /> About
       </a>
       <a href="#code" className="flex items-center gap-2 whitespace-nowrap">
-        <Bug size={20} /> Code
+        <Bug size={20} /> Data Lab
       </a>
       <a href="#games" className="flex items-center gap-2 whitespace-nowrap">
         <Gamepad2 size={20} /> Games
