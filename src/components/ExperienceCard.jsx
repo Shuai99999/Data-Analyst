@@ -24,6 +24,46 @@ export default function ExperienceCard({
           <div className="text-sm text-gray-700 space-y-6">
             <div>
               <h3 className="text-lg font-bold text-cyan-700">
+                Red Deer Polytechnic - Red Deer, Alberta
+              </h3>
+              <p className="italic">
+                Student Research Assistant – Data Engineering & AI | Oct.2026 -
+                Present
+              </p>
+              <p className="text-gray-700 text-sm leading-relaxed mb-2">
+                Red Deer Drive Research Project
+              </p>
+              <ul className="list-disc list-inside mt-2 space-y-1">
+                <li>
+                  Develop an automated data collection pipeline using Python,
+                  web scraping, and APIs to gather business information from
+                  multiple online sources.
+                </li>
+                <li>
+                  Transform unstructured web content into structured,
+                  searchable business data through data extraction, cleaning,
+                  normalization, and validation.
+                </li>
+                <li>
+                  Design a hybrid data storage architecture using PostgreSQL and
+                  pgvector, combining relational data management with vector
+                  embeddings for semantic search.
+                </li>
+                <li>
+                  Implemented an AI-powered semantic search system integrating
+                  PostgreSQL, pgvector, vector embeddings, and LLMs, enabling
+                  natural language queries over structured and unstructured
+                  business data.
+                </li>
+                <li>
+                  Conduct applied research on data accessibility, scraping
+                  limitations, and scalable approaches to business information
+                  retrieval.
+                </li>
+              </ul>
+            </div>
+            <div>
+              <h3 className="text-lg font-bold text-cyan-700">
                 RRS Supply Chain - Qingdao, China
               </h3>
               <p className="italic">
